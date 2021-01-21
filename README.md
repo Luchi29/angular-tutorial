@@ -1,1 +1,1 @@
-# angular-tutorial
+# angular-tutorial from the official Angular website
